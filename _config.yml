@@ -10,9 +10,9 @@
 locale                   : "en-US"
 title                    : "Home Page"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "fenghaozhu"
 description              : &description "personal description"
-url                      : https://tp1000d.github.io/XWang # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://fenghaozhu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -27,7 +27,7 @@ author:
   bio              : "NeuroAI | Optimization | Model Robustness | Wireless "
   location         : "Hangzhou 310027, China"
   employer         : "Zhejiang University"
-  uri              : "https://tp1000d.github.io/XWang"
+  uri              : "https://fenghaozhu.github.io"
   email            : "zjuzfh@zju.edu.cn" 
 
   # Academic websites
