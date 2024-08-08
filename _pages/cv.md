@@ -27,7 +27,7 @@ Experience
 * Dec. 2022 - Dec. 2025: Program Contributor, International Joint Research Program
   * Developed a beamforming inferring architecture to reduce beamforming overhead.
 
-* Nov. 2023 - Mar. 2024: Standard Contributor, IMT-2030 (6G) Standard Promotion Group
+* Nov. 2023 - Mar. 2024: Standard Contributor, IMT-2030 Standard Promotion Group
   * Presented research findings on intelligent RIS topics at the IMT-2030 Promotion Group standards discussion meeting, contributing to the development and advancement of industry standards
 
 * Aug. 2022 - Oct. 2022: Research Assistant, Zhejiang University, Department of Information and Communication
@@ -44,7 +44,7 @@ Publications
 
 Services
 ======
-* Reviewer for Journals: _IEEE Transactions on Communications_ (**JCR Q1**), _IEEE Communications Letters_, _Frontiers of Information Technology & Electronic Engineering_.
+* Reviewer for Journals: _IEEE Transactions on Communications_ (__JCR Q1__), _IEEE Communications Letters_, _Frontiers of Information Technology & Electronic Engineering_.
 * Reviewer for Conferences: _WS22 IEEE ICC 2023 2nd Workshop on Holographic MIMO Communications_, _2023 IEEE/CIC International Conference on Communications in China (ICCC Workshops)_, _2023 International Conference on Wireless Communications and Signal Processing (WCSP)_, _2024 IEEE/CIC International Conference on Communications in China (ICCC Workshops)_. 
 
 
