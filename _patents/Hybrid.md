@@ -1,5 +1,5 @@
 ---
-title: "AI-based cross-data set cross-scene robustness beamforming design method"
+title: "An intelligent cross-data set cross-scene robustness beamforming design method"
 collection: patents
 permalink: /patents/Hybrid
 date: Nov. 2023
