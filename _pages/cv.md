@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Zhejiang University, B.E. in Information Engineering, 2019-2023
-  * GPA: 3.93/4
+  * GPA: 3.90/4.0
   * Coursework: Data analysis and Algorithm Design, Matrix Theory, Probability and Mathematical Statistics, Principles of Communications, Signal Processing.
 * Zhejiang University, M.S. in Information and Communication Engineering, 2023-2026
   * Supervisor: Prof. Chongwen Huang
