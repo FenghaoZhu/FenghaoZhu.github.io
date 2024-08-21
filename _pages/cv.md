@@ -44,8 +44,9 @@ Publications
 
 Services
 ======
+* TPC Member: _2023 & 2024 IEEE/CIC International Conference on Communications in China (ICCC Workshops)_.
 * Reviewer for Journals: _IEEE Transactions on Communications_ (__JCR Q1__), _IEEE Communications Letters_, _Frontiers of Information Technology & Electronic Engineering_.
-* Reviewer for Conferences: _WS22 IEEE ICC 2023 2nd Workshop on Holographic MIMO Communications_, _2023 IEEE/CIC International Conference on Communications in China (ICCC Workshops)_, _2023 International Conference on Wireless Communications and Signal Processing (WCSP)_, _2024 IEEE/CIC International Conference on Communications in China (ICCC Workshops)_. 
+* Reviewer for Conferences: _WS22 IEEE ICC 2023 2nd Workshop on Holographic MIMO Communications_, _2023 IEEE/CIC International Conference on Communications in China (ICCC Workshops)_, _2023 International Conference on Wireless Communications and Signal Processing (WCSP)_, _2024 IEEE/CIC International Conference on Communications in China (ICCC Workshops)_, _IEEE 99th Vehicular Technology Conference (VTC2024-Spring_, _IEEE International Conference on Communication Technology (ICCT) 2023_. 
 
 
 Scholarships
